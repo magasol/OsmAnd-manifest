@@ -10,8 +10,8 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
+	<project path="core-legacy" name="magasol/OsmAnd-core.git" revision="master" />
 	<project path="android" name="magasol/Osmand.git" revision="master"/>
-	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
+	<project path="resources" name="magasol/OsmAnd-resources.git" revision="master" />
 	<project path="help" name="osmandapp/osmandapp.github.io.git" revision="master"/>
 </manifest>
